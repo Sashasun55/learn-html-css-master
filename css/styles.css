@@ -1,0 +1,13 @@
+img {
+  border: 10px solid black;
+}
+
+h1 {
+  size: 30px;
+  font-family: 'Vidaloka', serif;
+  color: #630F66;
+}
+
+li {
+  list-style-type: square;
+}
